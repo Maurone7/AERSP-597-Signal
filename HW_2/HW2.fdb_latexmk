@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1707792809 "/Users/mauro/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/597/HW_2/HW2.tex" "HW2.pdf" "HW2" 1707792810 0
+["pdflatex"] 1708310855 "/Users/mauro/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/597/HW_2/HW2.tex" "HW2.pdf" "HW2" 1708310856 0
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1701232166 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1701232166 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm" 1701232168 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -51,9 +51,17 @@
   "/Users/mauro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty" 1701233592 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "/Users/mauro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty" 1701233564 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "/Users/mauro/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty" 1121302610 22049 adc8323c809ccc2c21f05c93c1fe6ff3 ""
-  "/Users/mauro/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/597/HW_2/HW2.tex" 1707450518 3470 45eb4bfc104f2f6c9e2f34d8863c69ca ""
-  "HW2.aux" 1707792810 1587 38c44dbfc07e5a94a1648e94069abf0c "pdflatex"
-  "HW2.tex" 1707450518 3470 45eb4bfc104f2f6c9e2f34d8863c69ca ""
+  "/Users/mauro/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/597/HW_2/HW2.tex" 1708310854 4867 12dce7fa4d598f88e729ea29d4b3ff91 ""
+  "4a.png" 1708310448 49388 be7b44a475414a3fcfdc4a24f9682da5 ""
+  "4b.png" 1708310448 10901 30a6a7bbada1751b8f37ccf03c9c308b ""
+  "4d.png" 1708310453 18314 9f66514ac155fecb2f98a990bc2c1d37 ""
+  "4e.png" 1708310604 45988 60ca700bc718830e1e9e7e6343614d00 ""
+  "4f.png" 1708310477 9421 5c230583c961ea7ec85699ff7ef307a9 ""
+  "Ex 5a.1.png" 1708236635 46121 079299a566a4e2a69e6fe4c461ad49ab ""
+  "Ex 5a.2.png" 1708236642 19739 a71fdfc27e349eef4f8ec1aedc77d6e6 ""
+  "Ex 5c.png" 1708240145 131476 a47f8e13e3d084d7259bc5b2f2a70f8f ""
+  "HW2.aux" 1708310856 1834 26c2ef539c333f1f4852364e6fafcd74 "pdflatex"
+  "HW2.tex" 1708310854 4867 12dce7fa4d598f88e729ea29d4b3ff91 ""
   "HW2_1.png" 1707337481 51466 a30499fd00313e198b1ff4af3ea04c68 ""
   "HW2_1frequency.png" 1707337481 18114 608609bcc21c117524a88ea192671d91 ""
   "HW2_2IFFT_55points.png" 1707447556 89015 81c993bd4cdb2802961e3484f18a9a40 ""
